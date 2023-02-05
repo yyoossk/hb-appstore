@@ -1,4 +1,7 @@
-# Homebrew App Store
+# Homebrew App Store WUHB
+This a WUHB port of Homebrew App Store
+
+
 [![GPLv3 License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://opensource.org/licenses/GPL-3.0)
 [![gh actions](https://img.shields.io/github/actions/workflow/status/fortheusers/hb-appstore/main.yml?style=flat-square)](https://github.com/fortheusers/hb-appstore/actions/workflows/main.yml)
 [![gitlab ci](https://gitlab.com/4TU/hb-appstore/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/4TU/hb-appstore/pipelines)
